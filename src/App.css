@@ -8,12 +8,50 @@ body{
 
 .content-block{
    margin: 30px auto 0;
-   max-width: min-content;
+   max-width: 400px;
    background-color: #fff;
    border-radius: 56px;
    padding: 40px;
+   display: flex;
+   justify-content: center;
 }
 
 .field, .fieldTextarea{
    margin: 15px 0;
 }
+
+.error-message{
+   display: block;
+   margin: 5px auto;
+   color: crimson;
+}
+
+.symblos-left{
+   display: block;
+   margin: 3px auto;
+   color: rgb(42, 34, 36);
+   font-size: 10px;
+}
+
+.symblos-limit{
+   display: block;
+   margin: 3px auto;
+   color: rgb(211, 63, 100);
+   font-size: 11px;
+}
+
+.content-block__result-form{
+   max-width: 400px;
+   background-color: #fff;
+   border-radius: 56px;
+   display: none;
+   justify-content: center;
+}
+
+.result-entry{
+   margin: 10px auto;
+   border: 2px dotted rgb(51, 42, 42);
+   padding: 10px;
+}
+
+
