@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/formReact/static/css/main.6f8c41ef.css",
-    "main.js": "/formReact/static/js/main.0512a19e.js",
-    "index.html": "/formReact/index.html",
-    "main.6f8c41ef.css.map": "/formReact/static/css/main.6f8c41ef.css.map",
-    "main.0512a19e.js.map": "/formReact/static/js/main.0512a19e.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.6f8c41ef.css",
-    "static/js/main.0512a19e.js"
-  ]
+  "main.css": "/formReact/static/css/main.78913aa9.chunk.css",
+  "main.js": "/formReact/static/js/main.2ef47dc8.chunk.js",
+  "main.js.map": "/formReact/static/js/main.2ef47dc8.chunk.js.map",
+  "static/js/1.8430a659.chunk.js": "/formReact/static/js/1.8430a659.chunk.js",
+  "static/js/1.8430a659.chunk.js.map": "/formReact/static/js/1.8430a659.chunk.js.map",
+  "runtime~main.js": "/formReact/static/js/runtime~main.823882ff.js",
+  "runtime~main.js.map": "/formReact/static/js/runtime~main.823882ff.js.map",
+  "static/css/main.78913aa9.chunk.css.map": "/formReact/static/css/main.78913aa9.chunk.css.map",
+  "index.html": "/formReact/index.html",
+  "precache-manifest.7560e9d55c15af97376c5ca773515da2.js": "/formReact/precache-manifest.7560e9d55c15af97376c5ca773515da2.js",
+  "service-worker.js": "/formReact/service-worker.js"
 }
